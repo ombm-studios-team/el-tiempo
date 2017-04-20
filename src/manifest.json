@@ -1,0 +1,15 @@
+{
+  "name": "el-tiempo",
+  "short_name": "el-tiempo",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/img/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#8C1515",
+  "theme_color": "#8C1515"
+}
